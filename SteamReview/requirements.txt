@@ -1,0 +1,5 @@
+flask == 1.1.2
+flask-sqlalchemy
+flask-script
+flask_debugtoolbar
+mysqlclient
